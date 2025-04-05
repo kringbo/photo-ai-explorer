@@ -1,0 +1,13 @@
+torch
+torchvision
+faiss-cpu
+streamlit
+Pillow
+opencv-python
+tqdm
+scikit-learn
+matplotlib
+folium
+streamlit-folium
+deepface
+sqlite-utils
